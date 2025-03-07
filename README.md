@@ -3,7 +3,9 @@
 This repository is based on the repository "Autoregressive activity prediction for low-data drug discovery" from  https://github.com/ml-jku/autoregressive_activity_prediction
 
 
+
 There you can also find the links and discription for downloading the used data.
+
 
 
 In src:
@@ -15,6 +17,7 @@ The folder learning_selection_policy contains the experiments for Learned MHNfs.
 The folder Evaluation contains the file for evaluationg the autoregressive model performances.
 
 The folder mhnfs contains the implemented models and their modules.
+
 
 
 When using this repository create a results folder containing autoreg_inf_fsmol.pkl, performance_tables and plots.
