@@ -4,6 +4,8 @@ This repository is based on the repository "Autoregressive activity prediction f
 
 There you can also find the links and discription for downloading the used data.
 
+The hopfield folder is taken unchanged.
+
 ------------------------------------------------------------------------------------------------------------------
 
 In src:
